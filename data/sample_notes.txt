@@ -1,0 +1,3 @@
+Python is readable and versatile.
+Practice by changing the examples.
+Run the tests after completing each lesson.
